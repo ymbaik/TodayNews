@@ -21,7 +21,7 @@ const Home = () => {
         <div className="container">
             <div className="hero-section">
                 <h1>Card News</h1>
-                <p>Explore the World Through Our Eyes</p>
+                <p>부자가 되기위해서 반드시 알아야 할 소식</p>
                 <button className="button">View Latest Posts</button>
             </div>
             <div className="featured-section">
